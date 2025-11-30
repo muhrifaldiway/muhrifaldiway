@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
 - 😁👍👍
 
-![ngoding lagiii!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndmbjAzNWdhaWtkbXljb2Robnd0dTNxbHVqcnRsMmFtbDV1YWhlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
+![ngoding lagiii!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRqamF4ZjhyNGx2NHc1ejV2b2ozNjQ5Z3Z2amVwdnNxaXU1M2h3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
