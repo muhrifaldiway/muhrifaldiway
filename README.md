@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi !👋 I'm Moh. Rifaldi A.Way
 
 <!--
 **muhrifaldiway/muhrifaldiway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **SMK Informatika Komputer Ampana Kota**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- 😁👍👍
+
+![ngoding lagiii!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndmbjAzNWdhaWtkbXljb2Robnd0dTNxbHVqcnRsMmFtbDV1YWhlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
