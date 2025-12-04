@@ -1,89 +1,124 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Moh. Rifaldi A. Way 👋</h1>
-<p align="center">
-  <em>Web Developer • Laravel Enthusiast • Tech Explorer</em>
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm **Moh. Rifaldi A. Way**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhrifaldiway&style=flat&color=0e75b6" alt="profile views" />
-</p>
+### _Web Developer • Laravel Enthusiast • Technology Explorer_
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=550&lines=Passionate+about+Web+Development;Focused+on+Laravel+%26+Modern+Web+Tech;Learning+Every+Day+to+Become+Better" />
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=muhrifaldiway&style=flat&color=0E75B6" />
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 **About Me**
 
-Saya **Moh. Rifaldi A. Way**, seorang web developer yang fokus pada pengembangan aplikasi berbasis Laravel dan teknologi web modern.
+Halo! Saya **Moh. Rifaldi A. Way**, seorang Web Developer yang sedang fokus membangun aplikasi modern menggunakan **Laravel** dan teknologi web lainnya.
+
+Saya percaya bahwa teknologi adalah alat untuk mempermudah pekerjaan manusia, dan saya ingin menjadi bagian dari itu.
 
 - 🔭 Bekerja di **SMK Informatika Komputer Ampana Kota**
-- 🌱 Sedang mendalami **Laravel**, **REST API**, dan **Clean Code**
-- 🚀 Passion: Membangun aplikasi yang cepat, rapi, dan mudah digunakan
-- 💬 Suka berdiskusi tentang: Web App, UI/UX, Database Design
-- 📍 Indonesia
+- 🚀 Fokus pada **Laravel**, **REST API**, dan **Clean Architecture**
+- 📚 Belajar setiap hari untuk meningkatkan skill
+- 🎯 Tujuan: Menjadi Fullstack Developer yang kuat pada backend
+- 💡 Tertarik pada UI minimalis, database design, automations
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠️ **Tech Stack**
 
-Berikut teknologi yang saya gunakan dan pelajari. Tampilannya lebih profesional dan terstruktur, agar menunjukkan keseriusan dalam dunia engineering:
+### 🚩 **Languages**
+<div>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" height="50"/>
+</div>
 
-### **🔹 Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-</p>
+### 🚀 **Frameworks & Libraries**
+<div>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" height="50"/>
+</div>
 
-### **🔹 Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
-</p>
+### 🗄️ **Database**
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</div>
 
-### **🔹 Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-</p>
-
-### **🔹 Tools & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-</p>
+### ⚙️ **Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
+</div>
 
 ---
 
-## 📂 Featured Projects  
-> *(Nanti tinggal kamu isi. Bagian ini akan bikin profilmu terlihat seperti developer profesional.)*
+## 📘 **What I'm Learning Now**
 
-### 📌 **Sistem Informasi Laravel — Coming Soon**
-Deskripsi singkat project, fitur utama, dan preview screenshot nanti bisa ditambahkan.
+Saya sedang mendalami:
 
----
+- 🔹 Laravel Best Practices & Clean Code  
+- 🔹 Blade Components & Layouting  
+- 🔹 Eloquent Relationship (One to Many, Many to Many)  
+- 🔹 Authentication / Authorization  
+- 🔹 REST API Development  
+- 🔹 Deployment dasar (Hosting / VPS)
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=transparent&hide_border=true" height="150" />
-</p>
+> Belajar dikit-dikit, tapi konsisten ✔️
 
 ---
 
-## ✨ Fun Facts
+## 🧩 **Highlighted Projects**
+*(akan terlihat profesional ketika kamu isi project-mu kelak)*
 
-- ☕ Ngoding paling nikmat sambil ngopi  
-- 🧩 Menyelesaikan error = salah satu bentuk kebahagiaan  
-- 🚀 Percaya bahwa **konsistensi lebih penting dari kecepatan**
+### 📌 **Laravel App – Coming Soon**
+Dashboard modern + fitur CRUD lengkap.
+
+### 📌 **Sistem Informasi Sekolah – Coming Soon**
+Manajemen data siswa/guru, absensi, laporan.
 
 ---
 
-## 📫 Connect With Me  
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🔥 **GitHub Activity**
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhrifaldiway&theme=github-compact&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## ✨ **Fun Facts About Me**
+
+- ☕ Ngoding paling fokus ketika sambil ngopi  
+- 🔍 Paling semangat menyelesaikan error yang rumit  
+- 🎧 Musik meningkatkan produktivitas  
+- 📌 Motto: *“Small progress every day beats perfection someday.”*
+
+---
+
+## 📫 **Find Me**
+
 - GitHub: **https://github.com/muhrifaldiway**
 
 ---
 
-<p align="center">
-  <sub>Terima kasih sudah mengunjungi profil saya 🙌</sub>
-</p>
+<div align="center">
+  
+### 🌟 _Thanks for visiting my profile!_  
+_"Keep learning, keep building."_ 🚀  
+
+</div>
