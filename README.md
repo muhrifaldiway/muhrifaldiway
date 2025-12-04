@@ -91,13 +91,16 @@ Manajemen data siswa/guru, absensi, laporan.
 
 ---
 
-## 🔥 **GitHub Activity**
+## 🔥 GitHub Activity – Snake Game 🐍
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhrifaldiway&theme=github-compact&hide_border=true" width="95%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhrifaldiway/muhrifaldiway/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhrifaldiway/muhrifaldiway/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/muhrifaldiway/muhrifaldiway/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
 
 ---
 
