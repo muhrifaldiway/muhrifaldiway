@@ -85,8 +85,8 @@ Manajemen data siswa/guru, absensi, laporan.
 
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=muhrifaldiway&theme=tokyonight&hide_border=true&border_radius=6" 
-    height="250" width="480"
+    src="https://streak-stats.demolab.com?user=muhrifaldiway&theme=tokyonight&hide_border=true&border_radius=6&cache_bust=1" 
+    height="220"
     alt="GitHub Streak"
   />
 
@@ -94,15 +94,15 @@ Manajemen data siswa/guru, absensi, laporan.
 
   <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="250" width="480"
+    src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" 
+    height="220"
     alt="GitHub Stats"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=tokyonight&hide_border=true" 
-    height="250" width="480"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" 
+    height="220"
     alt="Top Languages"
   />
 
