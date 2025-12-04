@@ -83,11 +83,31 @@ Manajemen data siswa/guru, absensi, laporan.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=muhrifaldiway&theme=tokyonight&hide_border=true&border_radius=6" 
+    height="160" 
+    alt="GitHub Streak"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <br/><br/>
+
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhrifaldiway&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifaldiway&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="Top Languages"
+  />
 
 </div>
+
 
 ---
 
