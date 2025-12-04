@@ -1,3 +1,8 @@
+<!-- ====================== BANNER ====================== -->
+<p align="center">
+  <img src="img/banner-github.jpg" width="100%" alt="Profile Banner"/>
+</p>
+
 <!-- HEADER -->
 <div align="center">
   
@@ -112,7 +117,7 @@ Manajemen data siswa/guru, absensi, dan laporan.
 
 ---
 
-## 🔥 GitHub Activity – Snake Game 🐍
+## 🔥 GitHub Activity 🐍
 
 <div align="center">
   <picture>
