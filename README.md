@@ -91,7 +91,7 @@ Manajemen data siswa/guru, absensi, laporan.
 
 ---
 
-## 🔥 GitHub Activity – Snake Game 🐍
+## 🔥 GitHub Activity 🐍
 
 <div align="center">
   <picture>
