@@ -143,7 +143,7 @@ Saat ini saya sedang mendalami dan meningkatkan keterampilan pada:
 
 - 🐱 **GitHub:** [github.com/muhrifaldiway](https://github.com/muhrifaldiway)
 - 📧 **Email:** moh.rifaldi2776@guru.smk.belajar.id
-- 📸 **Instagram:** [@kongkowlipu_](https://instagram.com/kongkowlipu_)
+- 📸 **Instagram:** [@rivaldiway](https://instagram.com/rivaldiway)
 
 ---
 
